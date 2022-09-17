@@ -1,5 +1,4 @@
 Hello!! 
-Badge Linkedin
 
 Millena is a young scientist that loves technology and education. As a scientific olympiad multimedalist with more than 30 medals, she had an outstanding performance in the 2 most prestigious Brazilian Tech Olympiads. She also has awards in Scientific Fairs and Hacktons. 
 
